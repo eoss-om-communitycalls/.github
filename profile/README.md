@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to the EOSS Community Call Landing page 
 
-[Organizational Mycology](https://orgmycology.com/) and CZI Essentioal Open Source Software
+[Organizational Mycology](https://orgmycology.com/) and [CZI Essential Open Source Software](https://chanzuckerberg.com/eoss/)
 
 The first six resources from EOSS Community calls are: 
 

@@ -12,3 +12,4 @@ Resources from EOSS Community calls:
 - [Sustainability & Financial Models - October / November 2024](https://github.com/eoss-om-communitycalls/awesome-os-sustainability)
 - [Implementing Software Peer Review: Tips and Examples - January 2025](https://eoss-om-communitycalls.github.io/2025-01-29-software-peer-review/)
 - Strategic Planning for OSS - March 2025
+- [Developing a Security Mindset for your Open Source Project](https://eoss-om-communitycalls.github.io/2025-05-22-security-mindsets-worksheet/) - July 2025

@@ -15,5 +15,5 @@ Resources from EOSS Community calls:
 - [Strategic Thinking Starter Kit for Open Source Projects](https://eoss-om-communitycalls.github.io/2025-03-27-strategy-and-strategic-planning-OSS/)
 - [Open Source Dependency Management and Supply Chains](https://eoss-om-communitycalls.github.io/2025-11-20-dependency-management/)
 - [Scaling Strategies for Open Source Scientific Projects](https://eoss-om-communitycalls.github.io/2025-09-19-scaling-strategies/)
-- [Sustainability Resources for Open Source projects](https://github.com/eoss-om-communitycalls/awesome-os-sustainability)
-- [Governance Signals and Strategies for Open Source Scientific Projects](https://github.com/eoss-om-communitycalls/2025-07-24-governance-oss)
+- [Sustainability Resources for Open Source projects](https://github.com//awesome-os-sustainability)
+- [Governance Signals and Strategies for Open Source Scientific Projects](https://eoss-om-communitycalls.github.io/2025-07-24-governance-oss)
